@@ -1,0 +1,15 @@
+
+Abstract:
+This project implements a Generative AI based Bug Fixing Assistant
+that analyzes source code and generates human-like bug explanations
+and fixes.
+
+Applications:
+- Code review automation
+- Learning programming
+- Developer productivity
+
+Future Enhancement:
+- Integrate real LLM APIs (ChatGPT, Gemini)
+- Multi-language support
+- IDE plugin

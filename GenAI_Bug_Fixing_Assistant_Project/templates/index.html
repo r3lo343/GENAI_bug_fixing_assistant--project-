@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GenAI Bug Fixing Assistant</title>
+    <style>
+        body { font-family: Arial; background:#f2f2f2; padding:30px; }
+        textarea { width:100%; height:180px; }
+        button { padding:10px 20px; }
+        .box { background:white; padding:15px; margin-top:15px; }
+    </style>
+</head>
+<body>
+    <h2>GenAI Bug Fixing Assistant</h2>
+    <form method="post">
+        <textarea name="code" placeholder="Paste buggy code here"></textarea><br><br>
+        <button type="submit">Ask GenAI</button>
+    </form>
+
+    {% if explanation %}
+    <div class="box">
+        <h3>AI Explanation</h3>
+        <p>{{ explanation }}</p>
+    </div>
+
+    <div class="box">
+        <h3>Suggested Fix</h3>
+        <pre>{{ fixed_code }}</pre>
+    </div>
+    {% endif %}
+</body>
+</html>
